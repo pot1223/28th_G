@@ -94,7 +94,7 @@
 
 <br><br>
 
-![수익모델 이미지](1.png)
+![수익모델 이미지](./1.png)
 ## **🎨 디자인 무드보드**
 
 <img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/982e06ae-9957-487c-b5d3-10c7f369fcbb">
