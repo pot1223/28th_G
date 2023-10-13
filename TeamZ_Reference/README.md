@@ -76,7 +76,7 @@
 
 ## 📊 리서치 및 시장조사
 
-![설문조사 이미지](./image/evacuation_survey.png)
+![설문조사 이미지](./image/Evacuation_survey.png)
 
 <br>
 
