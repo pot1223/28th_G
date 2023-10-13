@@ -76,8 +76,6 @@
 
 ## 📊 리서치 및 시장조사
 
-![설문조사 이미지](./image/Evacuation_survey.png)
-
 <br>
 
 ### 1️⃣ 경쟁사 분석
@@ -106,6 +104,8 @@
 <br>
 
 ### 3️⃣ 유저리서치 분석
+
+![설문조사 이미지](./image/Evacuation_survey.png)
 
 <br>
 
