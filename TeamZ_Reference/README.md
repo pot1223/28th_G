@@ -161,15 +161,21 @@
 
 ### Flow chart
 
+**재난 정보 파악**
+
 ![재난정보 흐름](./image/Evacuation_Information_Flow.png)
 
 <br>
 
-![후 흐름](./image/Evacuation_Support_Flow.png)
+**피해 지역 후원**
+
+![후원 흐름](./image/Evacuation_support_Flow.png)
 
 <br> 
 
-![퀴즈 흐름](./image/Evacuation_Quiz_Flow.png)
+**퀴즈 풀기**
+
+![퀴즈 흐름](./image/Evacuation_quiz_Flow.png)
 
 <br>
 
