@@ -153,6 +153,26 @@
 
 <br>
 
+### IA
+
+![정보구조도 이미지](./image/Evacuation_IA.png)
+
+<br>
+
+### Flow chart
+
+![재난정보 흐름](./image/Evacuation_Information_Flow.png)
+
+<br>
+
+![후 흐름](./image/Evacuation_Support_Flow.png)
+
+<br> 
+
+![퀴즈 흐름](./image/Evacuation_Quiz_Flow.png)
+
+<br>
+
 ## 📊 서비스 비즈니스 모델
 
 
