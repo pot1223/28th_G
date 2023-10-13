@@ -169,13 +169,13 @@
 
 **피해 지역 후원**
 
-![후원 흐름](./image/Evacuation_support_Flow.png)
+![후원 흐름](./image/Evacuation_support_flow.png)
 
 <br> 
 
 **퀴즈 풀기**
 
-![퀴즈 흐름](./image/Evacuation_quiz_Flow.png)
+![퀴즈 흐름](./image/Evacuation_quiz_flow.png)
 
 <br>
 
