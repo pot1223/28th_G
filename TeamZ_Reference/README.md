@@ -6,7 +6,7 @@
 
 # 🌟 서비스명
 
-![메인 이미지](./image/Evacuation_main.png)
+![메인 이미지](./image/Evacuation_main.jpg)
 <br><br>
 
 ## 서비스 소개를 적어주세요.
