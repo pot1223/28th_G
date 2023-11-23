@@ -166,7 +166,8 @@
 
 ### 페르소나 설정 
 
-
+![페르소나1 이미지](./image/persona1.png)
+![페르소나2 이미지](./image/persona2.png)
 
 
 
