@@ -252,26 +252,35 @@
 
 + #### '대피로' 주요 기능 
     + 재난문자 수신 필터링을 통한 사용자 맞춤형 정보 전달
-      ![후원 흐름](./image/suw.png)
+      ![기능1](./image/function1.png)
+      
+      <br>
+      
     + 행동요령 및 주변 대피소 정보 제공을 통한 혼란 최소화
-      ![후원 흐름](./image/suw.png)
+      ![기능2](./image/function2.png)
+      
+      <br>
+      
     + 재난 상황 및 동네 안전 정보 공유가 가능한 커뮤니티
-      ![후원 흐름](./image/suw.png)
+      ![기능3](./image/function3.png)
+      
+      <br>
+      
     + 가족의 위험/안전 상태 실시간 확인으로 불안감 해소
-      ![후원 흐름](./image/suw.png)
+      ![기능4](./image/function4.png)
 
 
 
 ## 📊 서비스 비즈니스 모델
 
-![후원 흐름](./image/suw.png)
+![비즈니스모델](./image/bm.png)
  
 후원 페이지에 재난과 관련된 후원을 노출시킴으로서 후원 센터에게는 후원 참여자 모집의 도움을 줌.
 
 그에 대한 대가로 후원 홍보 수수료가 발생하며, 받은 후원 기부금은 후원 센터에 전달함.
 <br><br>
 
-![수익모델 이미지](./image/Evacuation_revenue_img.png)
+
 ## **🎨 디자인 무드보드**
 
 <img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/982e06ae-9957-487c-b5d3-10c7f369fcbb">
