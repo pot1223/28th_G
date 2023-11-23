@@ -211,15 +211,39 @@
 
 ### Flow chart
 
-**재난 정보 파악**
 
-![재난정보 흐름](./image/Evacuation_Informations_Flow.png)
+**서비스 플로우**
+
+![서비스 흐름](./image/flow.png)
 
 <br>
 
+
+
+
+**재난 정보 파악**
+
+![재난정보 흐름](./image/firstflow.png)
+
+<br>
+
+**가족 안부 파악**
+
+![가족 흐름](./image/familyflow.png)
+
+<br> 
+
+
+**커뮤니티 게시물 파악**
+
+![가족 흐름](./image/communityflow.png)
+
+<br> 
+
+
 **피해 지역 후원**
 
-![후원 흐름](./image/Evacuation_supports_flow.png)
+![후원 흐름](./image/supportflow.png)
 
 <br> 
 
